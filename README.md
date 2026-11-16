@@ -1,6 +1,6 @@
 # Prismara (Fase 2)
 
-Mod de Fabric para **Minecraft 26.3**. Esta versión (0.2.0) ya trae la Fase 1 dentro: no hay nada que "juntar" a mano.
+Mod de Fabric para **Minecraft 26.3**. Esta versión (0.2.1) ya trae la Fase 1 dentro: no hay nada que "juntar" a mano.
 
 ## Qué hay
 - Mena, bloque y fragmento de **prismita**. La mena ahora **se genera en el Overworld** (bajo tierra, y entre -48 y 48).
@@ -13,8 +13,8 @@ Si ya tienes el repositorio de la Fase 1:
 2. En la página principal del repositorio: **Add file → Upload files**.
 3. Arrastra **el contenido** de la carpeta descomprimida (`src`, `build.gradle`, `gradle.properties`, `README.md`...). Los archivos con la misma ruta se sobrescriben solos. La carpeta `.github` no cambió: si ya está en el repo, no hace falta volver a subirla.
 4. Abajo: **Commit changes**. El build arranca solo.
-5. Pestaña **Actions** → la ejecución más reciente → cuando termine en verde, descarga el artefacto **Artifacts**. Dentro está `prismara-0.2.0.jar` (el que **no** termina en `-sources`).
-6. En `mods/` quita `prismara-0.1.0.jar` y pon `prismara-0.2.0.jar` (+ Fabric API 0.166.2+26.3).
+5. Pestaña **Actions** → la ejecución más reciente → cuando termine en verde, descarga el artefacto **Artifacts**. Dentro está `prismara-0.2.1.jar` (el que **no** termina en `-sources`).
+6. En `mods/` quita `prismara-0.1.0.jar` y pon `prismara-0.2.1.jar` (+ Fabric API 0.166.2+26.3).
 
 Si prefieres Git en el PC: descomprime encima de tu carpeta del repo y ejecuta `git add -A`, `git commit -m "Fase 2"`, `git push`.
 

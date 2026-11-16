@@ -49,7 +49,6 @@ public class CodexScreen extends Screen {
 
 	@Override
 	public void extractRenderState(GuiGraphicsExtractor graphics, int mouseX, int mouseY, float delta) {
-		this.extractBackground(graphics, mouseX, mouseY, delta);
 
 		int left = this.width / 2 - PANEL_W / 2;
 		int top = this.height / 2 - PANEL_H / 2;
