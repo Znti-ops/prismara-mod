@@ -7,8 +7,8 @@
 ## Plan por fases
 | Fase | Contenido | Estado |
 |------|-----------|--------|
-| 1 | Proyecto Gradle 26.3, prismita (mena, bloque, fragmento), pestaña creativa, Códice con 5 capítulos | **incluida en este zip** |
-| 2 | Generación de la mena en el mundo, primeras 2 criaturas con modelo y textura propios | pendiente |
+| 1 | Proyecto Gradle 26.3, prismita (mena, bloque, fragmento), pestaña creativa, Códice con 5 capítulos | hecha |
+| 2 | Códice al entrar por primera vez (y receta para recuperarlo), mena en el mundo, 2 criaturas con modelo, textura, IA, loot y spawn natural | **incluida en este zip** |
 | 3 | Dimensión (tipo de dimensión, bioma, portal de prismita) | pendiente |
 | 4 | Resto de criaturas (6 en total), equipo y herramientas de prismita | pendiente |
 | 5 | Jefe «Soberano del Espectro» (fases por color), equipo cromático, botones de demostración en el Códice | pendiente |
