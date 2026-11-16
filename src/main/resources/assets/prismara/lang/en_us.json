@@ -1,0 +1,19 @@
+{
+  "itemGroup.prismara.main": "Prismara",
+  "item.prismara.prismara_codex": "Prismara Codex",
+  "item.prismara.prismite_shard": "Prismite Shard",
+  "item.prismara.prismite_ore": "Prismite Ore",
+  "item.prismara.prismite_block": "Block of Prismite",
+  "block.prismara.prismite_ore": "Prismite Ore",
+  "block.prismara.prismite_block": "Block of Prismite",
+  "prismara.codex.welcome.title": "Welcome",
+  "prismara.codex.welcome.body": "Prismara is a refracted realm: crystal reefs floating under a living aurora, where light splits into colors and every color has a creature, a danger and a reward.\nThis Codex records what has been discovered so far. Pages fill in as the mod grows.",
+  "prismara.codex.prismite.title": "Prismite",
+  "prismara.codex.prismite.body": "Prismite Ore glows faintly and needs an iron pickaxe or better. It drops Prismite Shards (Fortune and Silk Touch work). Nine shards craft a Block of Prismite, which glows brighter and turns back into nine shards.",
+  "prismara.codex.realm.title": "The Realm",
+  "prismara.codex.realm.body": "Coming soon: a dimension of floating crystal islands with a permanent aurora sky, reached through a portal built from Prismite.",
+  "prismara.codex.creatures.title": "Creatures",
+  "prismara.codex.creatures.body": "Coming soon: six native creatures, from gentle glimmerlings to the stalkers that hunt in the dark between the reefs, and the Spectrum Sovereign that rules them.",
+  "prismara.codex.gear.title": "Gear",
+  "prismara.codex.gear.body": "Coming soon: Prismite tools and armor, and chromatic gear forged from what the Sovereign leaves behind."
+}

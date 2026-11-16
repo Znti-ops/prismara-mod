@@ -1,0 +1,21 @@
+{
+	"schemaVersion": 1,
+	"id": "prismara",
+	"version": "${version}",
+	"name": "Prismara",
+	"description": "A refracted realm of crystal reefs under a living aurora. Phase 1: Prismite, the Codex.",
+	"authors": ["Yulian"],
+	"license": "CC0-1.0",
+	"icon": "assets/prismara/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": ["dev.prismara.PrismaraMod"],
+		"client": ["dev.prismara.client.PrismaraClient"]
+	},
+	"depends": {
+		"fabricloader": ">=0.20.1",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

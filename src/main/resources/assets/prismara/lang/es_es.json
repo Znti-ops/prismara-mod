@@ -1,0 +1,19 @@
+{
+  "itemGroup.prismara.main": "Prismara",
+  "item.prismara.prismara_codex": "Códice de Prismara",
+  "item.prismara.prismite_shard": "Fragmento de prismita",
+  "item.prismara.prismite_ore": "Mena de prismita",
+  "item.prismara.prismite_block": "Bloque de prismita",
+  "block.prismara.prismite_ore": "Mena de prismita",
+  "block.prismara.prismite_block": "Bloque de prismita",
+  "prismara.codex.welcome.title": "Bienvenida",
+  "prismara.codex.welcome.body": "Prismara es un reino refractado: arrecifes de cristal flotando bajo una aurora viva, donde la luz se parte en colores y cada color tiene una criatura, un peligro y una recompensa.\nEste Códice anota lo descubierto hasta ahora. Las páginas se llenan a medida que crece el mod.",
+  "prismara.codex.prismite.title": "Prismita",
+  "prismara.codex.prismite.body": "La mena de prismita brilla suavemente y requiere un pico de hierro o mejor. Suelta fragmentos de prismita (funcionan Fortuna y Toque de seda). Nueve fragmentos fabrican un bloque de prismita, que brilla más y se deshace en nueve fragmentos.",
+  "prismara.codex.realm.title": "El reino",
+  "prismara.codex.realm.body": "Próximamente: una dimensión de islas de cristal flotantes con cielo de aurora permanente, a la que se entra por un portal hecho de prismita.",
+  "prismara.codex.creatures.title": "Criaturas",
+  "prismara.codex.creatures.body": "Próximamente: seis criaturas nativas, desde los gentiles glimmerlings hasta los acechadores que cazan en la oscuridad entre arrecifes, y el Soberano del Espectro que las gobierna.",
+  "prismara.codex.gear.title": "Equipo",
+  "prismara.codex.gear.body": "Próximamente: herramientas y armadura de prismita, y equipo cromático forjado con lo que deja el Soberano."
+}

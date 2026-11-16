@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "prismara:prismite_block"
+  ],
+  "result": {
+    "id": "prismara:prismite_shard",
+    "count": 9
+  }
+}
